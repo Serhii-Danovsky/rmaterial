@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Bootstrap material design implementation for rails}
   spec.description   = %q{http://fezvrasta.github.io/bootstrap-material-design/#getting-started}
-  spec.homepage      = "TODO: no"
+  spec.homepage      = "https://rubygems.org/gems/example"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
